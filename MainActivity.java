@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
-
+//Estephany modifico esto 
 public class MainActivity extends AppCompatActivity {
     private SharePreferenceHandler sharePreferenceHandler;
     private EditText n_emp;
